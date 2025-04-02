@@ -8,6 +8,11 @@
 // o cover irá pegar a img e preencher o container, no caso o .hero
     background-size: cover;
 
+    .button {
+        margin-top: 2vw;
+        margin-bottom: 8px;
+    }
+
     &__content {
         max-width: 640px;
 
